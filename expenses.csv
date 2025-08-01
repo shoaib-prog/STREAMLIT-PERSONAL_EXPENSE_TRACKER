@@ -1,0 +1,9 @@
+Date,Category,Amount,Description,Note
+2025-08-01,Food,200.0,Pizza dinner,
+2025-08-01,Travel,150.0,Metro fare,
+2025-08-02,Shopping,500.0,T-shirt,
+2025-08-02,Utilities,300.0,Electricity bill,
+2025-08-01,Food,5000.0,,GROCERY
+2025-08-01,Rent,50000.0,,HOME RENT
+2025-07-01,Rent,50000.0,,HOME RENT
+2025-08-03,Transport,500.0,,PETROL
