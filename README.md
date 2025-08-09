@@ -31,5 +31,11 @@ Watch the project demo on **[LinkedIn](https://www.linkedin.com/posts/mohammed-s
 3. **Run the app**:
      streamlit run app.py
 
-4. **Open the provided URL in your browser.**   
+4. **Open the provided URL in your browser.**
+
+👨‍💻 Author
+MOHAMMED SHOAIB P A
+📌 [LinkedIn Profile]: www.linkedin.com/in/mohammed-shoaib-p-a-b0a7b02a9
+
+⭐ If you like this project, give it a star on GitHub to support! 
 
